@@ -1,0 +1,80 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 3px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+}
+.exe5e1{
+    color: orange;
+    font-size: 12px;
+    text-align: center;
+    width: 400px;
+}
+.exe5e2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+}
+.exe5e3{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+}
+.exe5e4{
+    font-size: 14px;
+    color: rgb(83, 82, 82);
+    font-weight: bold;
+    text-align: center;
+    width: 400px;
+}
+.exe5e5{
+    background-color: rgb(23, 55, 158);
+    color: white;
+    border-radius: 15px;
+    border: none;
+    width: 50px;
+    height: 30px;
+    text-align: center;
+    margin-left: 175px;
+    margin-top: 7px;
+}
+.exe5f1{
+    font-size: 30px;
+}
+.exe5f1a{
+    font-size: 20px;
+    color: gray;
+}
+.exe5f2{
+    color: rgb(4, 117, 4);
+}
+.exe5f3{
+    font-size: 17px;
+    color: gray;
+}
+.exe5f3a{
+    font-size: 17px;
+    color: red;
+}
+.exe5g1{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.exe5g1a{
+    color: gray;
+    font-weight: normal;
+}
+.exe5g2{
+    margin-top: 10px;
+    width: 550px;
+    line-height: 25px;
+}
+.exe5g3{
+    width: 550px;
+    margin-top: 25px;
+}
+.exe5g3a{
+    color: cornflowerblue;
+}
